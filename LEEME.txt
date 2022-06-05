@@ -1,0 +1,28 @@
+El proyecto esta basado en un frameworck backend de NODEJS. llamado SAILS.js 
+
+EL archivo dump_BD es realizado con POSTGRES en la version 12. 
+
+La version de  NODE en que esta corriendo el proyecto es la 12.18.3 
+
+El sistema: 
+	El sistema en si es un proyecto que promociona las ventas de fotos, donde un administrador publica dichas fotos para 
+	su posterior venta, la acciones de los administradores: 
+		
+		1) Poder habilidar y deshabilitar fotos
+		2) Administrar usuarios(cliente). 
+		3) Ver el Dashboard del sistema.
+		4) Poder habilitar y deshabilitar Admin pero el mismo no  
+
+	y los usuarios: 
+		
+		1) Agregar una foto al carrito de compra 
+		2) Hacer una lista de deseo. 
+		3) dar a un boton un como comprar y gestionar su compra. 
+		4) Registrarse en el sistema como cliente. 
+		
+En si eso es todo lo que hace el sistema. 
+deben crear la carpeta node_modules. con el comando npm install. ya saben con la version npm que viene en la version 
+12.18.3 de Node, esto para que no tenga problemas de versionado con el proyecto. 
+
+Espero pueda ayudarles. 
+
